@@ -4832,10 +4832,10 @@ istanbul@0.4.5:
     which "^1.1.1"
     wordwrap "^1.0.0"
 
-javascript-time-ago@^2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/javascript-time-ago/-/javascript-time-ago-2.0.1.tgz#11c85cac73f68eebf0256c9b1610e2ce2f429972"
-  integrity sha512-ec5m6x3eh2MloVvSd6Yy9ShqeQmWHl4GaKSZNF4UlRhqGMdxPtsAAjkhUmO/PHk7c13R8yfkSygNZkdi4QpBww==
+javascript-time-ago@^2.0.3:
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/javascript-time-ago/-/javascript-time-ago-2.0.3.tgz#2dc97e4de6c293b405dcffffedcd0ca63ffa555d"
+  integrity sha512-v5Es1AFiiQbSPwUIlV2HYjNTwNbG3yS7XRxhFIKBxgxgEPkSFcm5pf05LZhgGSv4AUxZw2i6e7rWlf1vCDlMjA==
   dependencies:
     relative-time-format "^0.1.3"
 
